@@ -4,8 +4,10 @@ Convert audio files to video with image.
 
 ## How to Use
 
-1. Store image and audio files in same folder of the script.
-1. Choose one of them depend on need.
+1. Download [FFmpeg](https://ffmpeg.org/download.html).
+2. Edit environment variables.
+3. Store image and audio files in same folder of the scripts.
+4. Choose one of them depend on need.
 
 ## Tested
 
