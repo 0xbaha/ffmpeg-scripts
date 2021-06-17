@@ -39,5 +39,5 @@ The script has been tested on Windows 10:
 - To convert MPEG files to MP4 files, and accepted on YouTube upload.
 
 ## References
-- [ref1](https://stackoverflow.com/questions/26148896/batch-or-bulk-combining-jpg-with-audio-files)
-- [ref2](https://superuser.com/questions/1041816/combine-one-image-one-audio-file-to-make-one-video-using-ffmpeg)
+- [Ref1](https://stackoverflow.com/a/26151984)
+- [Ref2](https://superuser.com/a/1041818)
