@@ -8,7 +8,7 @@ set dest_type="mp4"
 set source_type=%2
 
 :: arg3
-:: select image type (jpg/png)
+:: select image type (jpg,png)
 set image_type=%3
 
 :: arg1: u = unique
