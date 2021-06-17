@@ -13,7 +13,9 @@ Convert audio files to video with image.
 
 Here is how to use the script.
 
-`a2v.bat <arg1> <arg2> <arg3>`
+```
+a2v.bat <arg1> <arg2> <arg3>
+```
 
 - `arg1` = if you want to use same image, use argument `t` (template), or if each audio have certain image, use argument `u` (unique)
 - `arg2` = source type (`mp3`, `mpeg`)
